@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+@font-face {
+    font-family: 'DTM Sans';
+    src: url('fonts/DTM-Sans.otf') format('opentype');
+
+}
+
+#textH1 {
+    color: white;
+    font-size: 48px;
+    font-family: 'DTM Sans', sans-serif;
+
+}
+
